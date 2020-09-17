@@ -1,0 +1,43 @@
+{
+  "name": "gliitchuptime",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "DarkBoy",
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-tesseract": "^0.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "alexflipnote.js": "^1.2.3",
+    "canvacord": "^3.0.8",
+    "canvas": "^2.6.1",
+    "canvas-senpai": "^0.0.2",
+    "common-tags": "^1.8.0",
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.4.0",
+    "fs": "0.0.2",
+    "install": "^0.13.0",
+    "jimp": "^0.14.0",
+    "js-yaml": "^3.14.0",
+    "mathjs": "^7.1.0",
+    "moment": "^2.27.0",
+    "ms": "^2.1.2",
+    "nekos.life": "^2.0.7",
+    "node-bash-title": "0.0.2",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "superagent": "^5.3.1",
+    "weather-js": "^2.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
